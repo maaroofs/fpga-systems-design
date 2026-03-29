@@ -1,0 +1,35 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.mif
+*.xpr
+*.bit
+*.bin
+*.ltx
+*.rpt
+*.dcp
+.Xil/
+*/vivado_*
+*/.cache/
+*/ip/
+*/runs/
+*/_ide/
+
+# Vitis / SDK
+*/.metadata/
+*/Debug/
+*/Release/
+*/*.launch
+*/*.project
+*/*.cproject
+*/platform.spr
+
+# Simulation artifacts
+*.vcd
+*.fst
+sim.out
+
+# OS
+.DS_Store
+Thumbs.db
